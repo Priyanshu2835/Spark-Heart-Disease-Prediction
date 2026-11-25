@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Spark generated files
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Generated datasets and outputs
+data/heart_disease_clean.csv/
+output/
+results/
+checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1792759399705,"sparkVersion":"3.5.3","uid":"StringIndexer_d5c1052add88","paramMap":{"outputCol":"restecg_idx","handleInvalid":"keep","inputCol":"restecg"},"defaultParamMap":{"outputCol":"StringIndexer_d5c1052add88__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}
